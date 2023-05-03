@@ -1,6 +1,7 @@
 
 DRIVERS OF OBSERVED WARMING
 ============
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787130.svg)](https://doi.org/10.5281/zenodo.6787130)
 
 Figure number: Figure 3.8
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
